@@ -7,5 +7,3 @@ J'ai également dessiné moi-même le SVG du petit logo « loupe » à l'aide d'
 ## Aperçu
 
 ![preview](assets/gif-readme/video-searche.gif)
-
-Lien pour essayer : ***pas encore disponible***
