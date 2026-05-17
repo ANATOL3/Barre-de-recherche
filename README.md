@@ -8,4 +8,4 @@ J'ai également dessiné moi-même le SVG du petit logo « loupe » à l'aide d'
 ## Aperçu
 
 *Thème clair*
-![preview](assets/gif-readme/media-search-bar-readme.gif)
+![preview](assets/gif-readme/media-readme-search-bar.gif)
