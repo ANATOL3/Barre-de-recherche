@@ -7,3 +7,4 @@ J'ai également dessiné moi-même le SVG du petit logo « loupe » à l'aide d'
 ## Aperçu
 
 ![preview](assets/gif-readme/media-search-bar-readme.gif)
+*light theme*
