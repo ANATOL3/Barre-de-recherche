@@ -1,16 +1,16 @@
-const recherche = document.querySelector(".recherche");
+const searchBar = document.querySelector(".search-bar")
 
-const effacer_recherche = document.querySelector(".effacer-recherche");
+const removeSearch = document.querySelector(".remove-search")
 
-const input_reset = document.querySelector("input");
+const resetInput = document.querySelector("input")
 
 
-recherche.addEventListener("click", () => {
-    recherche.classList.add("open");
-});
+searchBar.addEventListener("click", () => {
+    searchBar.classList.add("open")
+})
 
-effacer_recherche.addEventListener("click", (event) => {
-    event.stopPropagation();
-    recherche.classList.remove("open");
-    input_reset.value = "";
-});
+removeSearch.addEventListener("click", (event) => {
+    event.stopPropagation()
+    searchBar.classList.remove("open")
+    resetInput.value = ""
+})
