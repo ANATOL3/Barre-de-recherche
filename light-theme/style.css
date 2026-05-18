@@ -54,22 +54,24 @@ input[type="search"]::-webkit-search-cancel-button {
     height: 15px;
     margin-right: 5px;
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 50%;
     display: flex;
     position: relative;
     margin-left: auto;
     cursor: pointer;
+    transition: all 0.2s ease;
 }
 
 .remove-search:hover {
-    background: #00000010;
+    background: #F4F3F2;
+    transition: all 0.2s ease;
 }
 
 .cross1 {
     position: absolute;
     width: 2px;
     height: 15px;
-    background: #aaaaaa;
+    background: gray;
     border-radius: 10px;
     left: 50%;
     top: 50%;
@@ -80,7 +82,7 @@ input[type="search"]::-webkit-search-cancel-button {
     position: absolute;
     width: 2px;
     height: 15px;
-    background: #aaaaaa;
+    background: gray;
     border-radius: 10px;
     left: 50%;
     top: 50%;

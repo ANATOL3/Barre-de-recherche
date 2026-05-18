@@ -6,7 +6,7 @@ body {
 .search-bar {
     width: 30px;
     height: 30px;
-    background: #0f0f0f;
+    background: #000000;
     border: 1px solid #ffffff80;
     border-radius: 25px;
     padding: 5px;
@@ -47,7 +47,6 @@ img {
     border: none;
     background: none;
     outline: none;
-    
     color: white;
 }
 
@@ -60,15 +59,17 @@ input[type="search"]::-webkit-search-cancel-button {
     height: 15px;
     margin-right: 5px;
     padding: 5px;
-    border-radius: 10px;
+    border-radius: 50%;
     display: flex;
     position: relative;
     margin-left: auto;
     cursor: pointer;
+    transition: all 0.2s ease;
 }
 
 .remove-search:hover {
-    background: #ffffff10;
+    background: #ffffff21;
+    transition: all 0.2s ease;
 }
 
 .cross1 {
