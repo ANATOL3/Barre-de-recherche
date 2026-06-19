@@ -9,3 +9,5 @@ J'ai également dessiné moi-même le SVG du petit logo « loupe » à l'aide d'
 
 *Thème clair*
 ![preview](assets/gif-readme/search-bar-media-readme.gif)
+
+Essayer : https://anatol3.github.io/Barre-de-recherche/
